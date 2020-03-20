@@ -1,2 +1,5 @@
-# ice
-my first startNG repository
+Nwigwe Ifeanyi Michael
+rubzyg@gmail.com
+ice
+backend and mobile
+php and python
